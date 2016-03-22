@@ -4,12 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("HelloWorld");
-		System.out.println("HelloWorld Back 4");
-		System.out.println("HelloWorld Back 5");
-		System.out.println("HelloWorld Back 6");
-		System.out.println("HelloWorld Back 7");
-		System.out.println("HelloWorld Back 8");
-		System.out.println("HelloWorld Back 9");
+		System.out.println("GGG2");
+		
 
 }
