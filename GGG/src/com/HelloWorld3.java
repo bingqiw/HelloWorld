@@ -10,5 +10,7 @@ public class HelloWorld3{
 		System.out.println("GGG3 HELLOWORLD3 15:45");
 		System.out.println("GGG3 HELLOWORLD3 15:45");
 
+		System.out.println("GGG3 HELLOWORLD3 16:03");
+		System.out.println("GGG3 HELLOWORLD3 16:03");
 	}
 }
