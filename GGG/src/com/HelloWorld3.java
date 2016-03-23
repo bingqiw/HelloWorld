@@ -4,22 +4,7 @@ public class HelloWorld3{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("GGG3 HELLOWORLD3 16:10");	
-		System.out.println("GGG3 HELLOWORLD3 16:10");
-		
-		System.out.println("GGG3 HELLOWORLD3 15:45");
-		System.out.println("GGG3 HELLOWORLD3 15:45");
-
-		System.out.println("GGG3 HELLOWORLD3 16:03");
-		System.out.println("GGG3 HELLOWORLD3 16:03");
-		
-		System.out.println("GGG3 HELLOWORLD3 16:10");	
-		System.out.println("GGG3 HELLOWORLD3 16:10");
-		
-		System.out.println("GGG3 HELLOWORLD3 16:06");
-		System.out.println("GGG3 HELLOWORLD3 16:06");
-		
-		System.out.println("GGG3 HELLOWORLD3 16:20");
-		System.out.println("GGG3 HELLOWORLD3 16:20");
+		System.out.println("GGG3 HELLOWORLD3 16:15");	
+		System.out.println("GGG3 HELLOWORLD3 16:15");
 	}
 }
