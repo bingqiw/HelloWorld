@@ -6,5 +6,8 @@ public class HelloWorld3{
 		// TODO Auto-generated method stub
 		System.out.println("GGG3 HELLOWORLD3 14:29");	
 		System.out.println("GGG3 HELLOWORLD3 15:40");
+		
+		System.out.println("GGG3 HELLOWORLD3 15:42");
+		System.out.println("GGG3 HELLOWORLD3 15:42");
 	}
 }
